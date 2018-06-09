@@ -1,0 +1,7 @@
+[package]
+name = "guess_game"
+version = "0.1.0"
+authors = ["RJ Mohammad <rana.mohammad@weightwatchers.com>"]
+
+[dependencies]
+rand = "0.3.14"
